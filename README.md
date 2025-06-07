@@ -45,19 +45,13 @@ An interactive Power BI dashboard to analyze product sales, customer behavior, a
 ## Top 5 Revenue Generating Products
 
         Tunic – $17.3K
-
         Jeans – $13.0K
-
         Pajamas – $12.8K
-
         Shorts – $12.7K
-
         Handbag – $12.6K
         
 ## Revenue per Item was highest for
 
         Slippers – $245
-
         Flip-Flops – $236
-
         Tunic – $320
