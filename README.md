@@ -40,9 +40,9 @@ An interactive Power BI dashboard to analyze product sales, customer behavior, a
 
     The average order value increased toward the end of the year, peaking in December, showing higher spending per customer during the festive season.
 
-    ## 📦 Product Performance
-
-    Top 5 Revenue Generating Products
+ ## 📦 Product Performance
+ 
+## Top 5 Revenue Generating Products
 
         Tunic – $17.3K
 
@@ -53,8 +53,8 @@ An interactive Power BI dashboard to analyze product sales, customer behavior, a
         Shorts – $12.7K
 
         Handbag – $12.6K
-
-    #Revenue per Item was highest for
+        
+## Revenue per Item was highest for
 
         Slippers – $245
 
