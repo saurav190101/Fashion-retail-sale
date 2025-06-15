@@ -1,7 +1,7 @@
 # Fashion-retail-sale
 
 ## 📸 Dashboard Screenshot
-![Dashboard](https://github.com/saurav190101/Fashion-retail-sale/blob/main/Screenshot%202025-06-07%20161531.png)
+![Dashboard](https://github.com/saurav190101/Fashion-retail-sale-power-BI/blob/main/Screenshot%202025-06-15%20112714.png)
 
 # Power BI E-commerce Sales Dashboard - Fashion Retail
 
